@@ -17,7 +17,7 @@ A simple full-stack web application where users can submit feedback (name, email
 | | |
 |---|---|
 | 🌐 **Live App** | [online-feedback-system-md4k.onrender.com](https://online-feedback-system-md4k.onrender.com) |
-| 💻 **GitHub Repository** | [github.com/Yashwanth18102004/feedback-system](https://github.com/Yashwanth18102004/feedback-system) |
+| 💻 **GitHub Repository** | [github.com/Yashwanth181024/feedback-system](https://github.com/Yashwanth181024/feedback-system) |
 
 > ⏳ This service runs on Render's free tier, so it may "sleep" after 15 minutes of inactivity. The first request afterward can take 20–30 seconds to wake up — this is normal.
 
